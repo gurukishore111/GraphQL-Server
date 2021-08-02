@@ -1,6 +1,6 @@
 # GraphQL-Server
 
-### MUTATION,QUERY
+##### MUTATION,QUERY
 ```
 # QUERY
 
@@ -69,7 +69,7 @@
 # }
 
 # mutation{
-#   addAuthor(name:"DEV GK"){
+#   addAuthor(name:"New Author Name"){
 #     id
 #     name
 #   }
