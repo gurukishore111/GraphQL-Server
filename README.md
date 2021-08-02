@@ -1,7 +1,7 @@
 # GraphQL-Server
 
 ### MUTATION,QUERY
-
+```
 # QUERY
 
 # query{
@@ -74,3 +74,4 @@
 #     name
 #   }
 # }
+```
